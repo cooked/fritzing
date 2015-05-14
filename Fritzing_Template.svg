@@ -51,18 +51,18 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer4"
+     id="board"
      inkscape:label="board" />
   <g
      inkscape:label="copper0"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="copper0" />
   <g
      inkscape:groupmode="layer"
-     id="layer2"
+     id="copper1"
      inkscape:label="copper1" />
   <g
      inkscape:groupmode="layer"
-     id="layer3"
+     id="silkscreen"
      inkscape:label="silkscreen" />
 </svg>
